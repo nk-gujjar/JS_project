@@ -58,3 +58,5 @@ mintNFT("flower","red",60,3);
 mintNFT("anime", "grey",15,9);
 listNFTs();
 getTotalSupply();
+
+console.log("Transaction ID : "+"c:\\Users\\nites\\.vscode\\javascript\\NFT\\project.js");
